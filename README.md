@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohanty.swastik7008@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oTlQRhb7pljN_qy1KpwRRuMr659sJ8Nz/view?usp=drive_link](https://drive.google.com/file/d/1oTlQRhb7pljN_qy1KpwRRuMr659sJ8Nz/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h6PezKyeq1vflQxFsd6KlfjoTHFy4pn8/view?usp=drive_link](https://drive.google.com/file/d/1h6PezKyeq1vflQxFsd6KlfjoTHFy4pn8/view?usp=drive_link)
 - 
 
 <h3 align="left">Connect with me:</h3>
