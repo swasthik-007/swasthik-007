@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **mohanty.swastik7008@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h6PezKyeq1vflQxFsd6KlfjoTHFy4pn8/view?usp=drive_link](https://drive.google.com/file/d/1h6PezKyeq1vflQxFsd6KlfjoTHFy4pn8/view?usp=drive_link)
-- 
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h6PezKyeq1vflQxFsd6KlfjoTHFy4pn8/view?usp=drive_link](https://drive.google.com/file/d/1hz6Ahf-rnx-LnFsxrJ3QikanWjaWqeiO/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/swasthik_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swasthik_07" height="30" width="40" /></a>
