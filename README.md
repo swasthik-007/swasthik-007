@@ -1,4 +1,4 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Swasthik+Mohanty;AI Developer;Problem+Solver;Code+Enthusiast)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Swasthik+Mohanty;AI+Developer;Problem+Solver;Code+Enthusiast)</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=swasthik-007&label=Profile%20views&color=0e75b6&style=flat" alt="swasthik-007" />
