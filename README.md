@@ -13,8 +13,8 @@
 const swasthik = {
     location: "India 🇮🇳",
     role: "Full Stack Developer",
-    currentProject: "Social Media Application",
-    askMeAbout: ["React", "MongoDB", "Next.js", "Node.js", "Express"],
+    currentProject: "Multi agent application",
+    askMeAbout: ["Generative Ai","agentic ai","web Development"],
     techStack: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB"],
